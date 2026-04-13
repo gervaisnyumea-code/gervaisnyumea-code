@@ -1,23 +1,108 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d1117,100:161b22&height=230&section=header&text=NYUMEA%20PEHA%20DARYL%20GERVAIS&fontSize=34&fontColor=e6edf3&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20%7C%20Data%20Science%20%7C%20DevSecOps&descAlignY=63&descAlign=50&descColor=58a6ff&descSize=15)
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=560&lines=Building+scalable+backend+systems.;Licence+2+%7C+Genie+Logiciel+oriente+Data+Science.;Lead+Engineer+%40+CAIS+Platform.;DevSecOps+%7C+AI+Systems+Architect." alt="typing" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d1117,100:161b22&height=230&section=header&text=NYUMEA%20PEHA%20DARYL%20GERVAIS&fontSize=34&fontColor=e6edf3&animation=fadeIn&fontAlignY=42&desc=Fullstack%20Engineer%20%7C%20Data%20Science%20%7C%20DevSecOps%20%7C%20AI&descAlignY=63&descAlign=50&descColor=58a6ff&descSize=15)
 
 <br/>
 
-![views](https://komarev.com/ghpvc/?username=gervaisnyumea-code&style=flat-square&color=58a6ff&label=PROFILE+VIEWS)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=680&lines=Building+scalable+fullstack+systems.;Licence+2+%7C+Genie+Logiciel+oriente+Data+Science.;Lead+Engineer+%40+CAIS+Platform.;DevSecOps+%7C+AI+Systems+Architect." alt="typing" />
+
+<br/><br/>
+
+![views](https://komarev.com/ghpvc/?username=gervaisnyumea-code&style=flat-square&color=0d1117&label=PROFILE+VIEWS)
+
+<br/>
+
+<!--  ─────────────────── TECH STACK VISUAL ─────────────────── -->
+
+<img src="https://img.shields.io/static/v1?label=&message=FULLSTACK+BACKEND&style=flat-square&color=0d2137" />
+<br/>
+<img src="https://img.shields.io/static/v1?label=&message=Node.js&style=flat-square&color=161b22" />
+<img src="https://img.shields.io/static/v1?label=&message=Express.js&style=flat-square&color=161b22" />
+<img src="https://img.shields.io/static/v1?label=&message=REST+API&style=flat-square&color=161b22" />
+<img src="https://img.shields.io/static/v1?label=&message=JWT&style=flat-square&color=161b22" />
+<img src="https://img.shields.io/static/v1?label=&message=RBAC&style=flat-square&color=161b22" />
+<img src="https://img.shields.io/static/v1?label=&message=SSE&style=flat-square&color=161b22" />
+<img src="https://img.shields.io/static/v1?label=&message=Prisma+ORM&style=flat-square&color=161b22" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/static/v1?label=&message=FULLSTACK+FRONTEND&style=flat-square&color=0d2137" />
+<br/>
+<img src="https://img.shields.io/static/v1?label=&message=Next.js+14&style=flat-square&color=161b22" />
+<img src="https://img.shields.io/static/v1?label=&message=React&style=flat-square&color=161b22" />
+<img src="https://img.shields.io/static/v1?label=&message=TypeScript&style=flat-square&color=161b22" />
+<img src="https://img.shields.io/static/v1?label=&message=Tailwind+CSS&style=flat-square&color=161b22" />
+<img src="https://img.shields.io/static/v1?label=&message=HTML5+%2F+CSS3&style=flat-square&color=161b22" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/static/v1?label=&message=DATA+%26+AI&style=flat-square&color=0d2137" />
+<br/>
+<img src="https://img.shields.io/static/v1?label=&message=Python&style=flat-square&color=161b22" />
+<img src="https://img.shields.io/static/v1?label=&message=Pandas&style=flat-square&color=161b22" />
+<img src="https://img.shields.io/static/v1?label=&message=NumPy&style=flat-square&color=161b22" />
+<img src="https://img.shields.io/static/v1?label=&message=Scikit-learn&style=flat-square&color=161b22" />
+<img src="https://img.shields.io/static/v1?label=&message=Regression+%26+Stats&style=flat-square&color=161b22" />
+<img src="https://img.shields.io/static/v1?label=&message=LLM+Integration&style=flat-square&color=161b22" />
+<img src="https://img.shields.io/static/v1?label=&message=Multi-agent+AI&style=flat-square&color=161b22" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/static/v1?label=&message=AI+TOOLS+%26+MASTERY&style=flat-square&color=0a1628" />
+<br/>
+<img src="https://img.shields.io/static/v1?label=&message=Claude+API&style=flat-square&color=0d1f33" />
+<img src="https://img.shields.io/static/v1?label=&message=GPT+API&style=flat-square&color=0d1f33" />
+<img src="https://img.shields.io/static/v1?label=&message=Prompt+Engineering&style=flat-square&color=0d1f33" />
+<img src="https://img.shields.io/static/v1?label=&message=Agentic+Workflows&style=flat-square&color=0d1f33" />
+<img src="https://img.shields.io/static/v1?label=&message=RAG+Pipelines&style=flat-square&color=0d1f33" />
+<img src="https://img.shields.io/static/v1?label=&message=Agent+Orchestration&style=flat-square&color=0d1f33" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/static/v1?label=&message=DATABASES&style=flat-square&color=0d2137" />
+<br/>
+<img src="https://img.shields.io/static/v1?label=&message=PostgreSQL&style=flat-square&color=161b22" />
+<img src="https://img.shields.io/static/v1?label=&message=SQLite&style=flat-square&color=161b22" />
+<img src="https://img.shields.io/static/v1?label=&message=Supabase&style=flat-square&color=161b22" />
+<img src="https://img.shields.io/static/v1?label=&message=Prisma+Migrate&style=flat-square&color=161b22" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/static/v1?label=&message=CLOUD+%26+DEVOPS&style=flat-square&color=0d2137" />
+<br/>
+<img src="https://img.shields.io/static/v1?label=&message=AWS&style=flat-square&color=161b22" />
+<img src="https://img.shields.io/static/v1?label=&message=Vercel&style=flat-square&color=161b22" />
+<img src="https://img.shields.io/static/v1?label=&message=Render&style=flat-square&color=161b22" />
+<img src="https://img.shields.io/static/v1?label=&message=Docker&style=flat-square&color=161b22" />
+<img src="https://img.shields.io/static/v1?label=&message=Docker+Compose&style=flat-square&color=161b22" />
+<img src="https://img.shields.io/static/v1?label=&message=GitHub+Actions&style=flat-square&color=161b22" />
+<img src="https://img.shields.io/static/v1?label=&message=Doppler&style=flat-square&color=161b22" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/static/v1?label=&message=DEVSECOPS&style=flat-square&color=0d2137" />
+<br/>
+<img src="https://img.shields.io/static/v1?label=&message=SAST&style=flat-square&color=161b22" />
+<img src="https://img.shields.io/static/v1?label=&message=SCA&style=flat-square&color=161b22" />
+<img src="https://img.shields.io/static/v1?label=&message=SBOM&style=flat-square&color=161b22" />
+<img src="https://img.shields.io/static/v1?label=&message=Secrets+Detection&style=flat-square&color=161b22" />
+<img src="https://img.shields.io/static/v1?label=&message=Container+Security&style=flat-square&color=161b22" />
+<img src="https://img.shields.io/static/v1?label=&message=Zero+Trust&style=flat-square&color=161b22" />
+<img src="https://img.shields.io/static/v1?label=&message=Shift-Left&style=flat-square&color=161b22" />
+<img src="https://img.shields.io/static/v1?label=&message=Secure+CI%2FCD&style=flat-square&color=161b22" />
+
+<br/>
 
 </div>
 
-<br/>
-
 ---
 
+<br/>
+
 ```
-  Mr. NYUMEA PEHA DARYL GERVAIS
+  NYUMEA PEHA DARYL GERVAIS
   ─────────────────────────────────────────────────────────────────
-  Licence 2 — Informatique Fondamentale
+  Fullstack Engineer — Licence 2 — Informatique Fondamentale
   option Génie Logiciel orientée Data Science
   Université de Yaoundé I
 
@@ -41,13 +126,14 @@ realtime     : Server-Sent Events (SSE)
 # ── Frontend ──────────────────────────────────────────
 framework    : Next.js 14 (App Router)
 language     : TypeScript · React
-style        : Tailwind CSS
+style        : Tailwind CSS · HTML5 · CSS3
 
 # ── Data & AI ─────────────────────────────────────────
 language     : Python
 libraries    : Pandas · NumPy · Scikit-learn
 track        : Regression · Applied Statistics · ML
 agents       : Multi-agent orchestration · LLM integration
+llm          : Claude API · GPT API · Prompt Engineering
 
 # ── Databases ─────────────────────────────────────────
 primary      : PostgreSQL
@@ -69,10 +155,6 @@ secrets_mgmt : Detection · Vault · Rotation
 containers   : Image Hardening · Runtime Security
 pipeline     : Secure CI/CD · GitHub Advanced Security
 practices    : Shift-Left Security · SBOM · Zero Trust
-
-# ── Auth & Security ───────────────────────────────────
-auth         : JWT · Bcrypt · Dual-auth (token + key)
-practices    : RBAC · HTTPS · Environment isolation
 ```
 
 <br/>
@@ -83,18 +165,18 @@ practices    : RBAC · HTTPS · Environment isolation
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="8">
+<table border="0" cellspacing="0" cellpadding="10">
 <tr>
-<td align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gervaisnyumea-code&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" />
+<td align="center" valign="top">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gervaisnyumea-code&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true&cache_seconds=86400" />
 </td>
-<td align="center">
-<img height="170" src="https://streak-stats.demolab.com/?user=gervaisnyumea-code&theme=github-dark-blue&hide_border=true" />
+<td align="center" valign="top">
+<img height="170" src="https://streak-stats.demolab.com/?user=gervaisnyumea-code&theme=github-dark-blue&hide_border=true&cache_seconds=86400" />
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gervaisnyumea-code&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gervaisnyumea-code&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400" />
 </td>
 </tr>
 </table>
@@ -121,7 +203,9 @@ practices    : RBAC · HTTPS · Environment isolation
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gervaisnyumea-code&theme=darkhub&no-frame=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=gervaisnyumea-code&theme=darkhub&no-frame=true&column=6&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+</a>
 
 </div>
 
@@ -147,6 +231,10 @@ practices    : RBAC · HTTPS · Environment isolation
 ```
 "Precision is not a constraint. It's the craft."
 ```
+
+<br/>
+
+*Let's build tomorrow's world from Africa.*
 
 <br/>
 
