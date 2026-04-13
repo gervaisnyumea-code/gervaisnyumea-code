@@ -170,7 +170,7 @@ practices    : Shift-Left Security · SBOM · Zero Trust
 <table border="0" cellspacing="0" cellpadding="10">
 <tr>
 <td align="center" valign="top">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gervaisnyumea-code&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true&cache_seconds=86400" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gervaisnyumea-code&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" />
 </td>
 <td align="center" valign="top">
 <img height="170" src="https://streak-stats.demolab.com/?user=gervaisnyumea-code&theme=github-dark-blue&hide_border=true&cache_seconds=86400" />
