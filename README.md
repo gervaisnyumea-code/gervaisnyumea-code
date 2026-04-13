@@ -108,7 +108,7 @@
   Etudiant en Cycle Licence  — Informatique Fondamentale 
   option Génie Logiciel orientée Data Science
   Université de Yaoundé I
-  Bientôt : (Fullstack Engineer , DevOps & DevSecOps)
+  Autodictate & Bientôt : (Fullstack Engineer , DevOps & DevSecOps)
   E-mail : gervais.nyumea@facsciences-uy1.cm
   
   Lead Engineer @ CAIS — Cameroon Artificial Intelligence Society
