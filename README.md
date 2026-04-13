@@ -7,7 +7,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=680&lines=Building+scalable+fullstack+systems.;Licence+2+%7C+Genie+Logiciel+oriente+Data+Science.;Lead+Engineer+%40+CAIS+Platform.;DevSecOps+%7C+AI+Systems+Architect." alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=680&lines=Building+scalable+fullstack+systems.;Licence+%7C+Genie+Logiciel+oriente+Data+Science.;Lead+Engineer+%40+CAIS+Platform.;DevOps+%7C+Design+System.;DevSecOps+%7C+AI+Systems+Architect." alt="typing" />
 
 <br/><br/>
 
