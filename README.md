@@ -166,22 +166,10 @@ practices    : Shift-Left Security · SBOM · Zero Trust
 ## GitHub Stats
 
 <div align="center">
-
-<table border="0" cellspacing="0" cellpadding="10">
-<tr>
-<td align="center" valign="top">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gervaisnyumea-code&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" />
-</td>
-<td align="center" valign="top">
-<img height="170" src="https://streak-stats.demolab.com/?user=gervaisnyumea-code&theme=github-dark-blue&hide_border=true&cache_seconds=86400" />
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gervaisnyumea-code&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400" />
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=gervaisnyumea-code&theme=github-dark-blue&hide_border=true&cache_seconds=86400" />
+</div>
+<br/>
 
 </div>
 
