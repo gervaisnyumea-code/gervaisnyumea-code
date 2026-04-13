@@ -205,9 +205,9 @@ practices    : Shift-Left Security · SBOM · Zero Trust
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+[<a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=gervaisnyumea-code&theme=darkhub&no-frame=true&column=6&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
-</a>
+</a>](https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png)
 
 </div>
 
