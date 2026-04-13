@@ -105,7 +105,7 @@
 ```infos
   M. NYUMEA PEHA DARYL GERVAIS
   ─────────────────────────────────────────────────────────────────
-  Etudiant Licence 2 — Informatique Fondamentale 
+  Etudiant en Cycle Licence  — Informatique Fondamentale 
   option Génie Logiciel orientée Data Science
   Université de Yaoundé I
   Bientôt : (Fullstack Engineer , DevOps & DevSecOps)
