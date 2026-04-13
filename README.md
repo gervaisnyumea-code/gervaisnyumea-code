@@ -170,6 +170,8 @@ practices    : Shift-Left Security · SBOM · Zero Trust
 <img src="https://streak-stats.demolab.com/?user=gervaisnyumea-code&theme=github-dark-blue&hide_border=true&cache_seconds=86400" />
 </div>
 <br/>
+  
+<img width="200" height="200" alt="icons8-copilote-github-750" src="https://github.com/user-attachments/assets/0149b335-d711-4fcb-96c6-9ba5aaddbb09" />
 
 </div>
 
@@ -193,7 +195,7 @@ practices    : Shift-Left Security · SBOM · Zero Trust
 
 <div align="center">
 
-<img width="300" height="300" alt="trophee" src="https://github.com/user-attachments/assets/5938f33b-9ae2-4c82-833b-4cffe74b2a7c" />
+<img width="200" height="200" alt="trophee" src="https://github.com/user-attachments/assets/5938f33b-9ae2-4c82-833b-4cffe74b2a7c" />
 
 
 </div>
