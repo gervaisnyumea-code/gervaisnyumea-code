@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d1117,100:161b22&height=220&section=header&text=Gervais%20Nyumea&fontSize=52&fontColor=e6edf3&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20·%20Data%20Science%20·%20AI%20Systems&descAlignY=64&descAlign=50&descColor=58a6ff&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d1117,100:161b22&height=230&section=header&text=NYUMEA%20PEHA%20DARYL%20GERVAIS&fontSize=34&fontColor=e6edf3&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20%7C%20Data%20Science%20%7C%20DevSecOps&descAlignY=63&descAlign=50&descColor=58a6ff&descSize=15)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=520&lines=Building+scalable+backend+systems.;Data+Science+%E2%80%94+Génie+Logiciel+·+Yaoundé+I.;Lead+Engineer+%40+CAIS+Platform.;Always+learning.+Always+shipping." alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=560&lines=Building+scalable+backend+systems.;Licence+2+%7C+Genie+Logiciel+oriente+Data+Science.;Lead+Engineer+%40+CAIS+Platform.;DevSecOps+%7C+AI+Systems+Architect." alt="typing" />
 
 <br/>
 
@@ -15,10 +15,11 @@
 ---
 
 ```
-  Gervais Nyumea Daryl
-  ─────────────────────────────────────────────────────
-  Étudiant — Génie Logiciel orienté Data Science
-  Université de Yaoundé I  ·  INF222 · BDS211 · INF242
+  Mr. NYUMEA PEHA DARYL GERVAIS
+  ─────────────────────────────────────────────────────────────────
+  Licence 2 — Informatique Fondamentale
+  option Génie Logiciel orientée Data Science
+  Université de Yaoundé I
 
   Lead Engineer @ CAIS — Cameroon Artificial Intelligence Society
   Designing production-grade AI infrastructure for the African tech ecosystem.
@@ -45,7 +46,8 @@ style        : Tailwind CSS
 # ── Data & AI ─────────────────────────────────────────
 language     : Python
 libraries    : Pandas · NumPy · Scikit-learn
-track        : Regression · Applied Statistics
+track        : Regression · Applied Statistics · ML
+agents       : Multi-agent orchestration · LLM integration
 
 # ── Databases ─────────────────────────────────────────
 primary      : PostgreSQL
@@ -60,7 +62,15 @@ ci/cd        : GitHub Actions
 secrets      : Doppler
 monitoring   : Custom daemon · SSE dashboard
 
-# ── Security ──────────────────────────────────────────
+# ── DevSecOps ─────────────────────────────────────────
+sast         : Static Analysis · Code Scanning
+sca          : Dependency Audit · CVE Detection
+secrets_mgmt : Detection · Vault · Rotation
+containers   : Image Hardening · Runtime Security
+pipeline     : Secure CI/CD · GitHub Advanced Security
+practices    : Shift-Left Security · SBOM · Zero Trust
+
+# ── Auth & Security ───────────────────────────────────
 auth         : JWT · Bcrypt · Dual-auth (token + key)
 practices    : RBAC · HTTPS · Environment isolation
 ```
@@ -73,13 +83,21 @@ practices    : RBAC · HTTPS · Environment isolation
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=gervaisnyumea-code&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true&custom_title=Stats" />
-&nbsp;
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=gervaisnyumea-code&theme=github-dark-blue&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gervaisnyumea-code&layout=compact&theme=github_dark&hide_border=true&langs_count=8&custom_title=Languages" />
+<table border="0" cellspacing="0" cellpadding="8">
+<tr>
+<td align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gervaisnyumea-code&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" />
+</td>
+<td align="center">
+<img height="170" src="https://streak-stats.demolab.com/?user=gervaisnyumea-code&theme=github-dark-blue&hide_border=true" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gervaisnyumea-code&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -115,9 +133,10 @@ practices    : RBAC · HTTPS · Environment isolation
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| **CAIS Platform** | Plateforme professionnelle IA africaine — full-stack, 18 tables, 9 phases | Next.js · Node.js · Prisma · PostgreSQL · AWS |
-| **API-Monitor V2** | Dashboard multi-API avec SSE, PWA, Docker Compose | Node.js · Docker · SSE · Chart.js |
-| **Blog API** | API sécurisée avec dual-auth JWT + API Keys, RBAC, admin SPA | Express · SQLite · JWT |
+| **CAIS Platform** | Plateforme IA africaine — full-stack, architecture 18 tables, pipeline 9 phases | Next.js · Node.js · Prisma · PostgreSQL · AWS |
+| **Jules Agent** | Agent IA autonome de coding — architecture multi-agent, analyse comparative Claude Code · Codex · Cursor · Kiro | Python · LLM · Multi-agent · Orchestration |
+| **API-Monitor V2** | Dashboard multi-API temps réel — SSE, PWA, Docker Compose, charting avancé | Node.js · Docker · SSE · Chart.js |
+| **Blog API** | API REST sécurisée — dual-auth JWT + API Keys, RBAC, admin SPA, daemon monitoring | Express · SQLite · JWT · RBAC |
 
 <br/>
 
