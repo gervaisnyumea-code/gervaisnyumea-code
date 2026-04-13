@@ -102,7 +102,7 @@
 
 <br/>
 
-
+```infos
   M. NYUMEA PEHA DARYL GERVAIS
   ─────────────────────────────────────────────────────────────────
   Etudiant Licence 2 — Informatique Fondamentale 
@@ -113,7 +113,7 @@
   
   Lead Engineer @ CAIS — Cameroon Artificial Intelligence Society
   Designing production-grade AI infrastructure for the African tech ecosystem.
-
+```
 
 ---
 
